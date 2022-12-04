@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **[React.js](https://reactjs.org/)**, **[Next.js](https://nextjs.org/)** and **[Tailwind CSS](https://tailwindcss.com/)**.
 
-- 📫 How to reach me **npat@tuturuuu.com**.
+- 📫 How to reach me **thu.nguyen@tuturuuu.com**.
 
 ## Languages and Tools
 
