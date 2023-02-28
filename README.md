@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm
-    Thu Nguyen.
+    <a href="https://npat.io">Thu Nguyen</a>.
 </h1>
 <h3 align="center">A passionate frontend developer from
     <a href="https://en.wikipedia.org/wiki/Vietnam">Vietnam</a>.
@@ -26,6 +26,8 @@
 ## About me
 
 - 🔭 I’m currently working on **[Tuturuuu](https://tuturuuu.com)**.
+
+- 👯 I’m looking to collaborate on any **Nextjs related project**.
 
 - 💬 Ask me about **[React.js](https://reactjs.org/)**, **[Next.js](https://nextjs.org/)** and **[Tailwind CSS](https://tailwindcss.com/)**.
 
