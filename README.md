@@ -29,9 +29,7 @@
 
 - 👯 I’m looking to collaborate on any **Nextjs related project**.
 
-- 💬 Ask me about **[React.js](https://reactjs.org/)**, **[Next.js](https://nextjs.org/)** and **[Tailwind CSS](https://tailwindcss.com/)**.
-
-- 📫 How to reach me **thu.nguyen@tuturuuu.com**.
+- 📫 How to reach me **thu.nguyen@tuturuuu.com** or **ngthu273@gmail.com**.
 
 ## Languages and Tools
 
