@@ -80,17 +80,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     </a>
 </p>
-
-## Statistics
-
-<p align="center">
-    <a href="#statistics">
-        <img src="https://github-readme-stats.vercel.app/api?username=npat273&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="@npat273's Github Stats" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="#statistics">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=npat273&theme=dracula&hide_border=true" alt="@npat273's Streaks" />
-    </a>
-</p>
