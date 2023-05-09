@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 
-# [@npat273](https://github.com/npat273) / About me
+# [@thu-ngnx](https://github.com/thu-ngnx) / About me
 
 <p align="center">
     <a href="#">
