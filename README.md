@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 
-# [@thu-ngnx](https://github.com/thu-ngnx) / About me
+# [@thu-ngx](https://github.com/thu-ngx) / About me
 
 <p align="center">
     <a href="#">
@@ -19,7 +19,7 @@
 
 <p align="center">
     <a href="#github-trophies">
-        <img src="https://github-profile-trophy.vercel.app/?username=thu-ngnx&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="@npat273's Github Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=thu-ngx&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="@thu-ngx's Github Trophies" />
     </a>
 </p>
 
