@@ -29,7 +29,7 @@
 
 - 👯 I’m looking to collaborate on any **Nextjs related project**.
 
-- 📫 How to reach me: **thu.nguyen@tuturuuu.com** / **ngthu273@gmail.com**.
+- 📫 How to reach me: **thu.nguyen@tuturuuu.com** / **contact@npat.io**.
 
 ## Languages and Tools
 
