@@ -25,8 +25,6 @@
 
 ## About me
 
-- 🔭 I’m currently working on **[Tuturuuu](https://tuturuuu.com)**.
-
 - 👯 I’m looking to collaborate on any **Nextjs related project**.
 
 - 📫 How to reach me: **ngthu273@gmail.com** / **contact@npat.io**.
